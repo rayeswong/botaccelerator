@@ -1,0 +1,2 @@
+rm uploads/*
+rm output/*
